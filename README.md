@@ -4,7 +4,7 @@
 新增分頁切換、完整剪貼簿管理、日曆整合等實用功能。
 
 ![macOS](https://img.shields.io/badge/macOS-14.0+-blue)
-![Version](https://img.shields.io/badge/Version-1.0-green)
+![Version](https://img.shields.io/badge/Version-2.0-green)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 ### 🚀 贊助
@@ -13,7 +13,7 @@
 ## 📥 下載安裝
 
 ### 最新版本
-📦 **[下載 BetterNotch v1.0](BetterNotch.dmg)**
+📦 **[下載 BetterNotch v2.0](BetterNotch.dmg)**
 
 ### 安裝步驟
 1. 下載上方的 `.dmg` 檔案
