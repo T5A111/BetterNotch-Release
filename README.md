@@ -8,7 +8,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green)
 
 # 🚀 贊助我
-您的支持是我更新的動力
+**您的支持是我更新的動力**
 [買杯咖啡](https://buymeacoffee.com/t5a111)
 
 ## 📥 下載安裝
