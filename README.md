@@ -7,7 +7,7 @@
 ![Version](https://img.shields.io/badge/Version-2.0-green)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-### 🚀 贊助
+# 🚀 贊助
 [買杯咖啡](https://buymeacoffee.com/t5a111)
 
 ## 📥 下載安裝
